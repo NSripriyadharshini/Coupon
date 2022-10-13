@@ -2,7 +2,7 @@ body{
     margin:auto
 }
 header{
-    height:143px;
+    height:75px;
     width:100%; 
     
 }
@@ -13,6 +13,64 @@ header{
     text-decoration:none ;
 }
 
+#coupon
+{
+    height:500px;
+    width:60%;
+    background-color:#65dbc3;
+    z-index:100;
+    top:10%;
+    opacity:0.95;
+    margin-left:20%;
+    border: 2px groove blueviolet;
+    position:fixed;
+    border-radius:10px;  
+}
+#couponHeading
+{
+    text-align:center;
+    margin-top:15px;
+    color:#0061ff;;
+    font-weight: bold;
+}
+#coupon>p
+{
+    text-align:center;
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+    line-height:0.5;
+    margin-top: 25px;
+}
+#offer
+{
+    height:350px;
+    width:85%;
+}
+#offerImg
+{
+    width:60%;
+    height:325px;
+    float:left;
+    margin-top:5px;
+}
+#ImgStyle
+{
+    width:100%;
+    height:100%;
+}
+#offerDetail
+{
+    width:40%;
+    height:350px;
+    margin-left:65%;
+    padding-left:5%;
+}
+#offerButton
+{
+    margin-top:-10px;
+    margin-left:45%;
+}
 #newheading{
     height:60px;
     width:100%;
