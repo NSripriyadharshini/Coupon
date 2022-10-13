@@ -29,18 +29,18 @@ header{
 #couponHeading
 {
     text-align:center;
-    margin-top:15px;
+    margin-top:28px;
     color:#0061ff;;
     font-weight: bold;
 }
 #coupon>p
 {
     text-align:center;
-    color:white;
+    color:#57339c;
     font-size:25px;
     font-weight: bold;
     line-height:0.5;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 #offer
 {
@@ -130,8 +130,7 @@ header{
 }
 h2 {
     width: 100%; 
-    text-align: center; 
-    border-bottom: 1px solid #000; 
+    text-align: center;  
     line-height: 0.1em;
     margin: 10px 0 20px; 
  } 
